@@ -1,0 +1,3 @@
+ivanov 15000
+petrov 25000
+sidorov 19000
